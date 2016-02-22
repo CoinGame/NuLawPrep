@@ -1,5 +1,5 @@
 - [ ] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083)
-- [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654
+- [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654)
 - [ ] [Motion to end LPC operations of KTm, Jamie and NSR sales of Jordan](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466)
 - [ ] [NSR sale and NBT burn](https://discuss.nubits.com/t/passed-nsr-sale-and-nbt-burn/2138)
 - [ ] [Promoting Nubits to internet payment processrs, exchanges, and gateways](https://discuss.nubits.com/t/passed-promoting-nubits-to-internet-payment-processors-exchanges-and-gateways/2037)

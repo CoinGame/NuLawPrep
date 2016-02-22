@@ -28,7 +28,7 @@
 - [ ] [Prioritizing Volume Dependent Transaction Fees](https://discuss.nubits.com/t/passed-prioritizing-volume-dependent-transaction-fees/2688)
 - [ ] [Finalized motion for protocol "voting"](https://discuss.nubits.com/t/passed-finalized-motion-for-protocol-voting/650)
 - [ ] [Motion to join FLOT - ttutdxh](https://discuss.nubits.com/t/passed-motion-to-join-flot-ttutdxh/2997)
-- [ ] [https://discuss.nubits.com/t/passed-motion-to-regulate-rules-of-fund-management-in-nulagoon/2760](Motion to regulate rules of fund management in NuLagoon)
+- [ ] [Motion to regulate rules of fund management in NuLagoon](https://discuss.nubits.com/t/passed-motion-to-regulate-rules-of-fund-management-in-nulagoon/2760)
 - [ ] [Running Nubits-Seeder on the anton.coinerella.com server](https://discuss.nubits.com/t/passed-running-nubits-seeder-on-the-anton-coinerella-com-server/2639)
 - [ ] [Motion to make auction size adjustable](https://discuss.nubits.com/t/passed-motion-to-make-auction-size-adjustable/2175)
 - [ ] [Motion to join FLOT - masterOfDisaster](https://discuss.nubits.com/t/passed-motion-to-join-flot-masterofdisaster/3002)

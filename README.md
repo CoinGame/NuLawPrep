@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/NuNetwork/nulaws](https://badges.gitter.im/NuNetwork/nulaws.svg)](https://gitter.im/NuNetwork/nulaws?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [ ] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083)
 - [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654)
 - [ ] [Motion to end LPC operations of KTm, Jamie and NSR sales of Jordan](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466)

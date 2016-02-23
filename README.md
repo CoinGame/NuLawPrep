@@ -1,12 +1,12 @@
 [![Join the chat at https://gitter.im/NuNetwork/nulaws](https://badges.gitter.im/NuNetwork/nulaws.svg)](https://gitter.im/NuNetwork/nulaws?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-- [ ] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083)
-- [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654)
-- [ ] [Motion to end LPC operations of KTm, Jamie and NSR sales of Jordan](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466)
-- [ ] [NSR sale and NBT burn](https://discuss.nubits.com/t/passed-nsr-sale-and-nbt-burn/2138)
-- [ ] [Promoting Nubits to internet payment processrs, exchanges, and gateways](https://discuss.nubits.com/t/passed-promoting-nubits-to-internet-payment-processors-exchanges-and-gateways/2037)
-- [ ] [NSR auction motion](https://discuss.nubits.com/t/passed-nsr-auction-motion/1590)
-- [ ] [Motion to introduce new NuBits products](https://discuss.nubits.com/t/passed-motion-to-introduce-new-nubits-products/2834)
+- [ ] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083) *Need source text to produce hash
+- [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654) *Need source text to produce hash
+- [X] [Motion to end LPC operations of KTm, Jamie and NSR sales of Jordan](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466)
+- [X] [NSR sale and NBT burn](https://discuss.nubits.com/t/passed-nsr-sale-and-nbt-burn/2138)
+- [X] [Promoting Nubits to internet payment processrs, exchanges, and gateways](https://discuss.nubits.com/t/passed-promoting-nubits-to-internet-payment-processors-exchanges-and-gateways/2037)
+- [X] [NSR auction motion](https://discuss.nubits.com/t/passed-nsr-auction-motion/1590)
+- [X] [Motion to introduce new NuBits products](https://discuss.nubits.com/t/passed-motion-to-introduce-new-nubits-products/2834)
 - [ ] [Motion to create the first liquidity pool: The Nu Lagoon](https://discuss.nubits.com/t/passed-motion-to-create-the-first-liquidity-pool-the-nu-lagoon/1616)
 - [ ] [Peercoin FLOT Reserve](https://discuss.nubits.com/t/passed-peercoin-flot-reserve/3337)
 - [ ] [Reduce the ttal displayed supply of NSR by 10,000](https://discuss.nubits.com/t/passed-reduce-the-total-displayed-supply-of-nsr-by-10-000/2730)

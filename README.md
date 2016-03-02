@@ -21,7 +21,7 @@
 - [X] [Motion to list all NuBits and NuShares exchange resources (including CCEDK)](https://discuss.nubits.com/t/passed-motion-to-list-all-nubits-and-nushares-exchange-resources-including-ccedk/2302)
 - [ ] [Motion to modify terms of custodian grant](https://discuss.nubits.com/t/passed-motion-to-modify-terms-of-custodain-grant/1226) *Need source text to produce hash
 - [ ] [Motion to adjust the dividend distribution structure of custodian grant] (https://discuss.nubits.com/t/passed-motion-to-adjust-the-dividend-distribution-structure-of-custodian-grant/1096) *Need source text to produce hash
-- [ ] [Motion to extend dual-side operation of grant for additional 30 days](https://discuss.nubits.com/t/passed-motion-to-extend-dual-side-operation-of-grant-for-additional-30-days/950) *Need source text to produce hash
+- [X] [Motion to extend dual-side operation of grant for additional 30 days days](https://discuss.nubits.com/t/passed-motion-to-extend-dual-side-operation-of-grant-for-additional-30-days/950) *Need source text to produce hash
 - [X] [Nusafe - An 30k hedge of Tier 4 funds in USD](https://discuss.nubits.com/t/passed-nusafe-an-30k-hedge-of-tier-4-funds-in-usd/3215)
 - [X] [Finalized motion for protocol changes](https://discuss.nubits.com/t/passed-finalized-motion-for-protocol-changes/372)
 - [X] [Interim Executor: @Nagalim](https://discuss.nubits.com/t/passed-interim-executor-nagalim/3267)

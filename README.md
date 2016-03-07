@@ -1,6 +1,6 @@
 [![Join the chat at https://gitter.im/NuNetwork/nulaws](https://badges.gitter.im/NuNetwork/nulaws.svg)](https://gitter.im/NuNetwork/nulaws?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-- [ ] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083) *Need source text to produce hash
+- [X] [Motion to make the nu source code available](https://discuss.nubits.com/t/passed-motion-to-make-the-nu-source-code-available/1083)
 - [ ] [Motion to begin NSR buyback immediately](https://discuss.nubits.com/t/passed-motion-to-begin-nsr-buyback-immediately/2654) *Need source text to produce hash
 - [X] [Motion to end LPC operations of KTm, Jamie and NSR sales of Jordan](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466)
 - [X] [NSR sale and NBT burn](https://discuss.nubits.com/t/passed-nsr-sale-and-nbt-burn/2138)
@@ -19,8 +19,8 @@
 - [X] [Motion to test shareholder response rate] (https://discuss.nubits.com/t/passed-motion-to-test-shareholder-response-rate/2840)
 - [ ] [Motion to change dividend period 001 of Kiara Tamm's liquidity grant proposal] (https://discuss.nubits.com/t/passed-motion-to-change-dividend-period-001-of-kiara-tamm-s-liquidity-grant-proposal/624) *Need source text to produce hash
 - [X] [Motion to list all NuBits and NuShares exchange resources (including CCEDK)](https://discuss.nubits.com/t/passed-motion-to-list-all-nubits-and-nushares-exchange-resources-including-ccedk/2302)
-- [ ] [Motion to modify terms of custodian grant](https://discuss.nubits.com/t/passed-motion-to-modify-terms-of-custodain-grant/1226) *Need source text to produce hash
-- [ ] [Motion to adjust the dividend distribution structure of custodian grant] (https://discuss.nubits.com/t/passed-motion-to-adjust-the-dividend-distribution-structure-of-custodian-grant/1096) *Need source text to produce hash
+- [X] [Motion to modify terms of custodian grant](https://discuss.nubits.com/t/passed-motion-to-modify-terms-of-custodain-grant/1226)
+- [X] [Motion to adjust the dividend distribution structure of custodian grant] (https://discuss.nubits.com/t/passed-motion-to-adjust-the-dividend-distribution-structure-of-custodian-grant/1096)
 - [X] [Motion to extend dual-side operation of grant for additional 30 days days](https://discuss.nubits.com/t/passed-motion-to-extend-dual-side-operation-of-grant-for-additional-30-days/950)
 - [X] [Nusafe - An 30k hedge of Tier 4 funds in USD](https://discuss.nubits.com/t/passed-nusafe-an-30k-hedge-of-tier-4-funds-in-usd/3215)
 - [X] [Finalized motion for protocol changes](https://discuss.nubits.com/t/passed-finalized-motion-for-protocol-changes/372)
